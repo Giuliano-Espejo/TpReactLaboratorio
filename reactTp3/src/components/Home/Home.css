@@ -1,0 +1,13 @@
+h1{
+    margin-top: 5%;
+    font-size: 4rem;
+    font-style: oblique;
+    color: steelblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-shadow: 4px 1px 3px rgb(78, 78, 78);
+}
+
+p{
+    font-size: x-large;
+}

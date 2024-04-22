@@ -1,0 +1,63 @@
+#main2 {
+  display: flex;
+  margin-left: 4%;
+  margin-top: 2%;
+}
+
+#izq {
+  width: 70%;
+  border-right: 1px solid gray;
+  padding: 2rem;
+}
+
+#der {
+  width: 30%;
+  padding: 2rem;
+}
+
+#instrumento {
+  text-align: center;
+}
+
+#instrumento img {
+  width: 40%;
+  display: inline-block;
+}
+
+h2 {
+  font-size: medium;
+}
+
+h3 {
+  font-size: 170%;
+  margin-bottom: 10%;
+}
+
+#izq h2 {
+  font-size: medium;
+  margin-top: 5%;
+}
+
+#der h2 {
+  font-size: 250%;
+  margin-bottom: 10%;
+  font-family: "Courier New", Courier, monospace;
+}
+
+h4 {
+  margin-top: 10%;
+  font-size: large;
+}
+
+p {
+  font-size: medium;
+}
+
+#boton{
+    margin-left: 10%;
+    margin-top: 15%;
+    background-color: aliceblue;
+    border: 2px solid #386dff;
+    color: #386dff;
+    display: block;
+}
